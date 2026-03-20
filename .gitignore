@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+dist/
+.npm-cache/
+catalog-pages/
+catalog-extract.txt
+patch-test.txt
+test2.txt
+*.log
+.env*
+!.env.example
+.DS_Store
